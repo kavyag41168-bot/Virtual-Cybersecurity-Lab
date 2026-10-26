@@ -248,20 +248,6 @@ To create one:
 
 The snapshot should be created after the initial lab configuration has been checked. It can then be used as a recovery point if later experiments affect the VM.
 
-## 📸 Lab Screenshots
-
-Screenshots provide evidence of the configuration and help other learners understand the setup process.
-
-Recommended screenshots:
-
-1. **VirtualBox Manager:** Kali Linux VM listed in VirtualBox.
-2. **Network Adapter Settings:** VirtualBox network attachment and network name.
-3. **Kali Linux Desktop:** The running Kali Linux virtual machine.
-4. **NetworkManager Configuration:** The IPv4 settings in `nm-connection-editor`.
-5. **Network Verification:** Terminal output showing the IP address and connectivity tests.
-6. **VM Snapshot:** The created snapshot displayed in VirtualBox.
-
-Use your own screenshots and ensure that they accurately represent the configuration at the time they were captured.
 
 ## 🐞 Problems Encountered and Troubleshooting
 
