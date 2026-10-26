@@ -60,10 +60,4 @@ The final IP address and connectivity status will be recorded after the configur
 
 This practical exercise provided hands-on experience with network inspection and configuration in Kali Linux running inside Oracle VirtualBox. It established a foundation for understanding virtual networking and preparing a cybersecurity lab for further authorized testing.
 
-## 6. Project Reference
 
-The following repository was used as a technical reference for the lab exercise:
-
-[Cybersecurity Lab Setup Sample](https://github.com/waqaskarimccie/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE)
-
-This repository documents my own practical work and observations.
